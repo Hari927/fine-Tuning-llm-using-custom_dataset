@@ -82,3 +82,8 @@ A: The Lahaina fire burned approximately 3,000 acres of land.
 - [Fine-Tuning LLMs Dataset GitHub](https://github.com/poloclub/Fine-tuning-LLMs)  
 - [Transformers Documentation](https://huggingface.co/docs/transformers)
 
+## 🙋 Project Owner
+
+Created and maintained by **`hari927`**  
+Feel free to reach out anytime to discuss ideas, ask questions, or report issues.  
+You can also [open an issue](https://github.com/hari927/fine-Tuning-llm-using-custom_dataset/issues) on this repository.
