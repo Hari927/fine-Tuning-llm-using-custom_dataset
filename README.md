@@ -84,6 +84,9 @@ A: The Lahaina fire burned approximately 3,000 acres of land.
 
 ## 🙋 Project Owner
 
-Created and maintained by **`hari927`**  
+Created and maintained by [**hari927**](https://github.com/Hari927)  
 Feel free to reach out anytime to discuss ideas, ask questions, or report issues.  
-You can also [open an issue](https://github.com/hari927/fine-Tuning-llm-using-custom_dataset/issues) on this repository.
+You can also [open an issue](https://github.com/Hari927/fine-Tuning-llm-using-custom_dataset/issues) on this repository.
+
+---
+
